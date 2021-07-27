@@ -46,8 +46,8 @@ Because this application won’t be deployed, you’ll also need to provide a li
  
  ## Links
  
-  * Application URL: (https://pat31477.github.io/E-Commerce-Back-End-ORM-/)
-  * Github Repository URL: (https://github.com/pat31477/E-Commerce-Back-End-ORM-)
+  * Application URL: (https://chloeyu17.github.io/ecommerce/)
+  * Github Repository URL: (https://github.com/chloeyu17/ecommerce)
 
 ## Contributions
 
